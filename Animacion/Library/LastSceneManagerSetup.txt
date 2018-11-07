@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AnimXavi.unity
+- path: Assets/Scenes/AnimJorge.unity
   isLoaded: 1
   isActive: 1

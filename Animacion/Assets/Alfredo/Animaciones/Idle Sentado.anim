@@ -20169,7 +20169,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Huesos/cadera/Antepierna izq
+    path: Huesos/cadera/Antepierna dcho
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -20179,7 +20179,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Huesos/cadera/Antepierna izq
+    path: Huesos/cadera/Antepierna dcho
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -20189,7 +20189,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Huesos/cadera/Antepierna izq
+    path: Huesos/cadera/Antepierna dcho
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -20289,6 +20289,36 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
+    path: Huesos/cadera/Pecho/Antebrazo Izq
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Huesos/cadera/Pecho/Antebrazo Izq
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Huesos/cadera/Pecho/Antebrazo Izq
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
     path: Huesos/cadera/Pecho/Antebrazo dcho
     classID: 4
     script: {fileID: 0}
@@ -20310,6 +20340,36 @@ AnimationClip:
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
     path: Huesos/cadera/Pecho/Antebrazo dcho
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Huesos/cadera/Antepierna izq
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Huesos/cadera/Antepierna izq
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Huesos/cadera/Antepierna izq
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -20349,36 +20409,6 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Huesos/cadera/Pecho/Antebrazo dcho/Brazo dcho
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Huesos/cadera/Pecho/Antebrazo dcho/Brazo dcho
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Huesos/cadera/Pecho/Antebrazo dcho/Brazo dcho
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
     path: Huesos/cadera/Pecho/Antebrazo Izq/Brazo izq
     classID: 4
     script: {fileID: 0}
@@ -20409,7 +20439,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Huesos/cadera/Pecho/Antebrazo Izq
+    path: Huesos/cadera/Pecho/Antebrazo dcho/Brazo dcho
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -20419,7 +20449,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Huesos/cadera/Pecho/Antebrazo Izq
+    path: Huesos/cadera/Pecho/Antebrazo dcho/Brazo dcho
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -20429,37 +20459,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Huesos/cadera/Pecho/Antebrazo Izq
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Huesos/cadera/Antepierna dcho
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Huesos/cadera/Antepierna dcho
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Huesos/cadera/Antepierna dcho
+    path: Huesos/cadera/Pecho/Antebrazo dcho/Brazo dcho
     classID: 4
     script: {fileID: 0}
   - curve:
