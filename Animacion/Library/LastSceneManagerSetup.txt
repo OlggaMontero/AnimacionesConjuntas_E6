@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/AnimC\xE9sar.unity"
+- path: Assets/AnimXavi.unity
   isLoaded: 1
   isActive: 1
